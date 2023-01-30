@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="create_new_event">Create new event</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter event title</string>
+    <string name="date_icon">date icon</string>
+    <string name="date">Date</string>
+    <string name="enter_date">Select event date</string>
+    <string name="from">From</string>
+    <string name="time">Time</string>
+    <string name="to">To</string>
+    <string name="clock_icon">clock icon</string>
+    <string name="note">Note</string>
+    <string name="enter_note">Enter event note</string>
+    <string name="remind">Remind me</string>
+    <string name="default_reminder">15 minutes</string>
+    <string name="drop_down_icon">drop down icon</string>
+    <string name="create_reminder">Create Reminder</string>
+    <string name="explain_need_pemission">The camera is important for this app. Please grant the permission.</string>
+</resources>
